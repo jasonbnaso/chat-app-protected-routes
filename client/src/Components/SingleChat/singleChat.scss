@@ -1,0 +1,14 @@
+.spinnerWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: red!important; */
+}
+
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    width: 100%;
+}
